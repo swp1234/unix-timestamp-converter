@@ -1,0 +1,10 @@
+{
+  "app": {
+    "title": "Unix Timestamp Converter",
+    "description": "Convert Unix timestamps to readable dates and turn local dates back into seconds or milliseconds."
+  },
+  "ui": {
+    "skip": "Skip to tool",
+    "loading": "Loading..."
+  }
+}

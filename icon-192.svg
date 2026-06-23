@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192" role="img" aria-label="Unix Timestamp Converter icon">
+  <rect width="192" height="192" rx="31" fill="#475569"/>
+  <circle cx="142" cy="48" r="35" fill="#f59e0b" opacity="0.9"/>
+  <path d="M35 138 L157 138" stroke="#ffffff" stroke-width="9" stroke-linecap="round" opacity="0.72"/>
+  <text x="50%" y="53%" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="70" font-weight="800" fill="#ffffff">UN</text>
+</svg>
