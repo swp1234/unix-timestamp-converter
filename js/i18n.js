@@ -6,6 +6,9 @@
 
   function detectLanguage() {
     try {
+      const params = new URLSearchParams(window.location.search || '');
+      const urlLang = params.get('lang');
+      if (urlLang && supportedLanguages.includes(urlLang)) return urlLang;
       const saved = localStorage.getItem('app_language');
       if (saved && supportedLanguages.includes(saved)) return saved;
       const browser = (navigator.language || fallback).split('-')[0];
